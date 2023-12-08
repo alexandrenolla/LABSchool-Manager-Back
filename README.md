@@ -37,5 +37,9 @@ $ cd LabSchoolAPI
  dotnet run
 ```
 
-
 The API will be available at http://localhost:5127/swagger.
+
+## DB Diagram
+
+[DER-FINAL-SQUAD1.pdf](https://github.com/alexandrenolla/LABSchool-Manager-Back/files/13618517/DER-FINAL-SQUAD1.pdf)
+
