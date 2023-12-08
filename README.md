@@ -31,7 +31,7 @@ $ cd LabSchoolAPI
  dotnet build
 ```
 
-4. Run the command:
+3. Run the command:
 
 ```
  dotnet run
