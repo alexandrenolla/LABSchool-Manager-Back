@@ -14,9 +14,12 @@ List of technologies used in the project:
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/)
 - [MVC Pattern](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc)
 
- 
-## Running the project
+## Prerequisites
 
+- [dotnet CLI](https://learn.microsoft.com/pt-br/dotnet/core/tools/) installed.
+- [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads) installed.
+ 
+## Installation and Execution
 
 1. Clone the repository:
 
