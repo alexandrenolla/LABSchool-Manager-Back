@@ -16,7 +16,7 @@ List of technologies used in the project:
 
 ## Prerequisites
 
-- [dotnet CLI](https://learn.microsoft.com/pt-br/dotnet/core/tools/) installed.
+- [dotnet SDK](https://learn.microsoft.com/pt-br/dotnet/core/tools/) installed.
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads) installed.
  
 ## Installation and Execution
